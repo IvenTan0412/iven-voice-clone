@@ -1,0 +1,9 @@
+{
+  "id": "female",
+  "label": "女声（新录音 4）",
+  "reference_audio": "reference.wav",
+  "reference_text": "我可以拥有很多很多他的爱，但我并不会把这些当作是理所当然。",
+  "reference_sha256": "05010380bf962dc3c75d7b86ee0602a72a69ca28dffbebe7e1011d0cf2003e88",
+  "temperature": 0.6,
+  "language": "zh"
+}

@@ -1,0 +1,4 @@
+interface:
+  display_name: "男声 / 女声本地配音"
+  short_description: "使用保存的 Iven 男声或女声生成中文 WAV，默认自动降噪，支持 M 系列 Mac"
+  default_prompt: "使用 $iven-voice-clone，按我指定的男声或女声朗读文案，并自动降噪。"

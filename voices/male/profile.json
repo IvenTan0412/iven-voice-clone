@@ -1,0 +1,9 @@
+{
+  "id": "male",
+  "label": "Iven 男声",
+  "reference_audio": "reference.wav",
+  "reference_text": "就想着天气晴，只要不下雨，就骑车上班吧，11公里。",
+  "reference_sha256": "4552c948cc1562f4bff263908320677acdd5be9d3ca2828cd36a505b6e52b775",
+  "temperature": 0.6,
+  "language": "zh"
+}
